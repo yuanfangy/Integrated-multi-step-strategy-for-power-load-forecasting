@@ -1,2 +1,2 @@
-# Integrated-multi-step-strategy-for-power-load-forecasting
+# Integrated-multi-step-forecasting
 mRMR-PSO-LSSVR，multiple multi-step strategies, multi-core MLSSVR
